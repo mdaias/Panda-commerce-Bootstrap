@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.panda-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.panda-bg-color{
+    background-color: #fceae8;
+}
+.panda-fs1{
+    font-size: 3.5rem;
+}
+.panda-buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.panda-img-mini{
+    width: 100px;
+}
+.panda-title{
+    font-size: 2rem;
+    color: orange;
+    font-family: 'Bebas Neue', cursive;
+}
+.panda-price{
+    color: #ff2378;
+    font-weight: 700;
+}
